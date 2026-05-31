@@ -31,7 +31,7 @@ The full source code remains proprietary and is not publicly distributed.
 This software and all related materials are proprietary and may not be redistributed or modified without written permission.
 
 ---
-👉 [Visit Official Website](https://contect-architect.ns5.club)
+👉 [Visit Official Website](https://content-architect.ns5.club)
 
 ---
 
