@@ -7,6 +7,13 @@ SEO Content Architect is a Windows app for generating SEO‑optimized articles a
 SEO Content Architect is a Windows desktop application built with Electron, React, and Vite.  
 It automates the entire content workflow — from AI‑powered article generation to WordPress publishing — while maintaining full local control and offline reliability.
 
+## Live Example Website
+
+[en.ns5.club](https://en.ns5.club) is a software review website built entirely with SEO Content Architect.  
+All articles, images, and WordPress posts on the platform are generated, edited, and published using the app’s AI‑powered workflow.  
+The site demonstrates real‑world usage of the tool, showcasing its ability to produce SEO‑optimized content, manage sources, and automate publishing at scale.
+
+
 ## Demo Video
 
 [![Watch the video](https://img.youtube.com/vi/jH-OL78N_4s/maxresdefault.jpg)](https://youtu.be/jH-OL78N_4s?si=2anI8-27UfxPMxPq)
