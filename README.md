@@ -25,3 +25,4 @@ The full source code remains proprietary and is not publicly distributed.
 License
 © 2026 Dragan. All rights reserved.
 This software and all related materials are proprietary and may not be redistributed or modified without written permission.
+[![Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9NL3GZLPH01Z)
